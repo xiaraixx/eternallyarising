@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "eternally arising",
+    "description": "",
+    "home_page_url": "https://xiaraixx.github.io/eternallyarising",
+    "feed_url": "https://xiaraixx.github.io/eternallyarising/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "viij"
+    },
+    "items": [
+        {
+            "id": "https://xiaraixx.github.io/eternallyarising/what-is-awakening.html",
+            "url": "https://xiaraixx.github.io/eternallyarising/what-is-awakening.html",
+            "title": "What is awakening",
+            "author": {
+                "name": "viij"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-28T15:24:46+03:00",
+            "date_modified": "2022-04-28T15:24:46+03:00"
+        }
+    ]
+}

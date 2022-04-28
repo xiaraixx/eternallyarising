@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>eternally arising</title>
+    <link href="https://xiaraixx.github.io/eternallyarising/feed.xml" rel="self" />
+    <link href="https://xiaraixx.github.io/eternallyarising" />
+    <updated>2022-04-28T15:24:46+03:00</updated>
+    <author>
+        <name>viij</name>
+    </author>
+    <id>https://xiaraixx.github.io/eternallyarising</id>
+
+    <entry>
+        <title>What is awakening</title>
+        <author>
+            <name>viij</name>
+        </author>
+        <link href="https://xiaraixx.github.io/eternallyarising/what-is-awakening.html"/>
+        <id>https://xiaraixx.github.io/eternallyarising/what-is-awakening.html</id>
+
+        <updated>2022-04-28T15:24:46+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
