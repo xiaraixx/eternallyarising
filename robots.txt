@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://xiaraixx.github.io/eternallyarising/sitemap.xml
+Sitemap: https://xiaraixx.github.io/xiaraixx.github.io/sitemap.xml
