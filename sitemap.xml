@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://xiaraixx.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://eternallyarising.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://xiaraixx.github.io/</loc>
+<loc>https://eternallyarising.com/</loc>
 </url>
 <url>
-<loc>https://xiaraixx.github.io/about-this-blog.html</loc>
+<loc>https://eternallyarising.com/about-this-blog.html</loc>
 <lastmod>2022-04-28T15:24:20+03:00</lastmod>
 </url>
 <url>
-<loc>https://xiaraixx.github.io/what-is-awakening.html</loc>
+<loc>https://eternallyarising.com/what-is-awakening.html</loc>
 <lastmod>2022-04-28T15:24:46+03:00</lastmod>
 </url>
 </urlset>
