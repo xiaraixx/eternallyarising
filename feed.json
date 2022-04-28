@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "eternally arising",
     "description": "",
-    "home_page_url": "https://eternallyarising.com",
-    "feed_url": "https://eternallyarising.com/feed.json",
+    "home_page_url": "http://eternallyarising.com",
+    "feed_url": "http://eternallyarising.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "viij"
     },
     "items": [
         {
-            "id": "https://eternallyarising.com/what-is-awakening.html",
-            "url": "https://eternallyarising.com/what-is-awakening.html",
+            "id": "http://eternallyarising.com/what-is-awakening.html",
+            "url": "http://eternallyarising.com/what-is-awakening.html",
             "title": "What is awakening",
             "author": {
                 "name": "viij"
